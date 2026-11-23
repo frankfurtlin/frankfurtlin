@@ -1,36 +1,57 @@
-<h3 align="center">Frankfurtlin</h3>
+<div align="center">
 
-<p align="center">
-  I build tools for <b>DeepSeek Harness</b> — plugins, an Android client, and the glue that lets a
-  self-hosted agent actually reach the phone in my hand.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=FF4D4D&center=true&vCenter=true&width=700&lines=Frankfurtlin;I+build+tools+for+DeepSeek+Harness;Plugins%2C+an+Android+client%2C+and+the+glue" alt="typing"/>
+
+<p>
+  <img src="https://img.shields.io/badge/DSH-DeepSeek%20Harness-ff4d4d?style=flat-square&labelColor=0d1117" alt="DSH"/>
+  <img src="https://img.shields.io/badge/Android-Flutter-ff4d4d?style=flat-square&labelColor=0d1117" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/self--hosted-no%20telemetry-ff4d4d?style=flat-square&labelColor=0d1117" alt="self-hosted"/>
+  <img src="https://komarev.com/ghpvc/?username=frankfurtlin&color=ff4d4d&style=flat-square&label=visitors" alt="visitors"/>
 </p>
+
+</div>
 
 ---
 
-Most of my work lives in one place: **DSH**, a self-hosted agent harness I run on my own server.
-The pieces below turn it from a web page into something that can touch the rest of my devices.
+### What I'm building
+
+Most of my work is one thing: **DSH** (DeepSeek Harness), a self-hosted agent harness I run on my
+own server. The projects below turn it from a web page into something that can reach the devices in
+my room.
 
 **DSH Pocket** — an Android client for DSH. Native Flutter UI over an SSH tunnel to your own host,
 plus a phone bridge so the agent can read the screen, tap, type and move files on the device.
-[`dsh-pocket`](https://github.com/frankfurtlin/dsh-pocket)
+→ [`frankfurtlin/dsh-pocket`](https://github.com/frankfurtlin/dsh-pocket)
 
-**Plugins** — small, single-purpose extensions that run inside the harness:
+**Ten plugins** — small, single-purpose extensions that live inside the harness panel:
 
-- [`dsh-pet`](https://github.com/frankfurtlin/dsh-pet) — a capybara that lives in the corner and reacts to session state
-- [`dsh-webpilot`](https://github.com/frankfurtlin/dsh-webpilot) — a real browser inside the host, driven by the agent
-- [`dsh-kb`](https://github.com/frankfurtlin/dsh-kb) — a knowledge base with hybrid search and an LLM-written wiki
-- [`dsh-wallstreet`](https://github.com/frankfurtlin/dsh-wallstreet) — market panel: indices, breadth, turnover
-- [`dsh-creative-studio`](https://github.com/frankfurtlin/dsh-creative-studio) — writing, design and logo workbenches in one panel
-- [`dsh-tavern`](https://github.com/frankfurtlin/dsh-tavern) — character-card writing and roleplay
-- [`dsh-ziwei`](https://github.com/frankfurtlin/dsh-ziwei) — 紫微斗数 charting
-- [`dsh-game`](https://github.com/frankfurtlin/dsh-game) — poker and mahjong
-- [`dsh-bartending`](https://github.com/frankfurtlin/dsh-bartending) — cocktail recipes
-- [`dsh-skin`](https://github.com/frankfurtlin/dsh-skin) — theme tokens and a few visual primitives
-
-**Elsewhere** — a Minecraft Fabric mod
-([`mixinenhance`](https://github.com/frankfurtlin/mixinenhance)), older web and Java projects from
-school, mostly archived.
+`dsh-pet` · `dsh-webpilot` · `dsh-kb` · `dsh-wallstreet` · `dsh-creative-studio` · `dsh-tavern` ·
+`dsh-ziwei` · `dsh-game` · `dsh-bartending` · `dsh-skin`
+→ [all repositories](https://github.com/frankfurtlin?tab=repositories&q=dsh-)
 
 ---
 
-<sub>Everything here assumes you run your own server. No accounts, no telemetry.</sub>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=frankfurtlin&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical&bg_color=0d1117&title_color=ff4d4d&icon_color=ff4d4d&text_color=c9d1d9&border_color=ff4d4d" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankfurtlin&layout=compact&hide_border=true&langs_count=8&theme=radical&bg_color=0d1117&title_color=ff4d4d&text_color=c9d1d9&border_color=ff4d4d" alt="top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=frankfurtlin&hide_border=true&theme=radical&background=0d1117&ring=ff4d4d&fire=ff4d4d&currStreakLabel=ff4d4d" alt="streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=frankfurtlin&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=frankfurtlin&bg_color=0d1117&color=ff4d4d&line=ff4d4d&point=ffffff&area_color=ff4d4d&area=true&hide_border=true&custom_title=Contribution%20activity" alt="activity graph"/>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/frankfurtlin/frankfurtlin/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>Everything here assumes you run your own server. No accounts, no telemetry.</sub>
+</div>
