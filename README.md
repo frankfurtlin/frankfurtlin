@@ -46,7 +46,7 @@ plus a phone bridge so the agent can read the screen, tap, type and move files o
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frankfurtlin&theme=github_dark&bg_color=0d1117&title_color=9ca3af&text_color=c9d1d9&icon_color=6e7681&border_color=30363d" alt="profile details"/>
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frankfurtlin&theme=github_dark&bg_color=0d1117&title_color=9ca3af&text_color=c9d1d9&icon_color=6e7681&border_color=30363d" alt="repos per language"/>
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=frankfurtlin&theme=github_dark&utcOffset=8" alt="productive time"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=frankfurtlin&utcOffset=8&theme=github_dark&bg_color=0d1117&title_color=9ca3af&text_color=c9d1d9&icon_color=6e7681&border_color=30363d" alt="productive time"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=frankfurtlin&bg_color=0d1117&color=9ca3af&line=6e7681&point=ffffff&area_color=30363d&area=true&hide_border=true&custom_title=Contribution%20activity" alt="activity graph"/>
 
