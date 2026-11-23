@@ -38,7 +38,11 @@ plus a phone bridge so the agent can read the screen, tap, type and move files o
 
 <img src="https://streak-stats.demolab.com?user=frankfurtlin&hide_border=true&theme=radical&background=0d1117&ring=ff4d4d&fire=ff4d4d&currStreakLabel=ff4d4d" alt="streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=frankfurtlin&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=frankfurtlin&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&rank=SSS,SS,S,AAA,AA,A,B,C" alt="trophies"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frankfurtlin&theme=radical" alt="profile details"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frankfurtlin&theme=radical" alt="repos per language"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=frankfurtlin&theme=radical&utcOffset=8" alt="productive time"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=frankfurtlin&bg_color=0d1117&color=ff4d4d&line=ff4d4d&point=ffffff&area_color=ff4d4d&area=true&hide_border=true&custom_title=Contribution%20activity" alt="activity graph"/>
 
