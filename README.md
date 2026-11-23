@@ -35,7 +35,7 @@ plus a phone bridge so the agent can read the screen, tap, type and move files o
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=frankfurtlin&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=0d1117&title_color=9ca3af&icon_color=6e7681&text_color=c9d1d9&border_color=30363d" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankfurtlin&layout=compact&hide_border=true&langs_count=8&theme=github_dark&bg_color=0d1117&title_color=ff4d4d&text_color=c9d1d9&border_color=ff4d4d" alt="top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankfurtlin&layout=compact&hide_border=true&langs_count=8&theme=github_dark&bg_color=0d1117&title_color=9ca3af&text_color=c9d1d9&border_color=30363d" alt="top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=frankfurtlin&hide_border=true&theme=github_dark&background=0d1117&ring=9ca3af&fire=8b949e&currStreakLabel=9ca3af&sideLabels=8b949e&dates=6e7681" alt="streak"/>
 
