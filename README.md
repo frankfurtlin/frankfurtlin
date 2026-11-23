@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=FF4D4D&center=true&vCenter=true&width=700&lines=Frankfurtlin;I+build+tools+for+DeepSeek+Harness;Plugins%2C+an+Android+client%2C+and+the+glue" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=FF4D4D&center=true&vCenter=true&width=900&lines=Frankfurtlin;Tools+for+DeepSeek+Harness;Self-hosted%2C+no+telemetry" alt="typing"/>
 
 <p>
   <img src="https://img.shields.io/badge/DSH-DeepSeek%20Harness-ff4d4d?style=flat-square&labelColor=0d1117" alt="DSH"/>
@@ -28,6 +28,15 @@ plus a phone bridge so the agent can read the screen, tap, type and move files o
 `dsh-pet` · `dsh-webpilot` · `dsh-kb` · `dsh-wallstreet` · `dsh-creative-studio` · `dsh-tavern` ·
 `dsh-ziwei` · `dsh-game` · `dsh-bartending` · `dsh-skin`
 → [all repositories](https://github.com/frankfurtlin?tab=repositories&q=dsh-)
+
+<div align="center">
+
+<a href="https://github.com/frankfurtlin/dsh-pocket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=frankfurtlin&repo=dsh-pocket&hide_border=true&theme=radical&bg_color=0d1117&title_color=ff4d4d&icon_color=ff4d4d&text_color=c9d1d9" alt="dsh-pocket"/></a>
+<a href="https://github.com/frankfurtlin/dsh-pet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=frankfurtlin&repo=dsh-pet&hide_border=true&theme=radical&bg_color=0d1117&title_color=ff4d4d&icon_color=ff4d4d&text_color=c9d1d9" alt="dsh-pet"/></a>
+<a href="https://github.com/frankfurtlin/dsh-webpilot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=frankfurtlin&repo=dsh-webpilot&hide_border=true&theme=radical&bg_color=0d1117&title_color=ff4d4d&icon_color=ff4d4d&text_color=c9d1d9" alt="dsh-webpilot"/></a>
+<a href="https://github.com/frankfurtlin/dsh-kb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=frankfurtlin&repo=dsh-kb&hide_border=true&theme=radical&bg_color=0d1117&title_color=ff4d4d&icon_color=ff4d4d&text_color=c9d1d9" alt="dsh-kb"/></a>
+
+</div>
 
 ---
 
