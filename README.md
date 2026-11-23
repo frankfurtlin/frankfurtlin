@@ -29,14 +29,6 @@ plus a phone bridge so the agent can read the screen, tap, type and move files o
 `dsh-ziwei` · `dsh-game` · `dsh-bartending` · `dsh-skin`
 → [all repositories](https://github.com/frankfurtlin?tab=repositories&q=dsh-)
 
-<div align="center">
-
-<a href="https://github.com/frankfurtlin/dsh-pocket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=frankfurtlin&repo=dsh-pocket&hide_border=true&theme=radical&bg_color=0d1117&title_color=ff4d4d&icon_color=ff4d4d&text_color=c9d1d9" alt="dsh-pocket"/></a>
-<a href="https://github.com/frankfurtlin/dsh-pet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=frankfurtlin&repo=dsh-pet&hide_border=true&theme=radical&bg_color=0d1117&title_color=ff4d4d&icon_color=ff4d4d&text_color=c9d1d9" alt="dsh-pet"/></a>
-<a href="https://github.com/frankfurtlin/dsh-webpilot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=frankfurtlin&repo=dsh-webpilot&hide_border=true&theme=radical&bg_color=0d1117&title_color=ff4d4d&icon_color=ff4d4d&text_color=c9d1d9" alt="dsh-webpilot"/></a>
-<a href="https://github.com/frankfurtlin/dsh-kb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=frankfurtlin&repo=dsh-kb&hide_border=true&theme=radical&bg_color=0d1117&title_color=ff4d4d&icon_color=ff4d4d&text_color=c9d1d9" alt="dsh-kb"/></a>
-
-</div>
 
 ---
 
