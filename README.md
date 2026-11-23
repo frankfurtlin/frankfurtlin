@@ -38,7 +38,10 @@ plus a phone bridge so the agent can read the screen, tap, type and move files o
 
 <img src="https://streak-stats.demolab.com?user=frankfurtlin&hide_border=true&theme=radical&background=0d1117&ring=ff4d4d&fire=ff4d4d&currStreakLabel=ff4d4d" alt="streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=frankfurtlin&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&rank=SSS,SS,S,AAA,AA,A,B,C" alt="trophies"/>
+<!-- 奖杯墙：github-profile-trophy 目前对 GitHub 的抓取返回 502，先注释掉。
+     服务恢复后取消下面这行注释即可。
+<img src="https://github-profile-trophy.vercel.app/?username=frankfurtlin&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+-->
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frankfurtlin&theme=radical" alt="profile details"/>
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frankfurtlin&theme=radical" alt="repos per language"/>
