@@ -19,6 +19,21 @@ own server. The projects below turn it from a web page into something that can r
 my room — a phone, a real browser, a pet on the desktop — and turn the server into the machine I
 actually live on.
 
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/frankfurtlin/dsh-kb/main/docs/review-shots/01-home.png" width="420" alt="dsh-kb"/><br/><sub><b>dsh-kb</b> — reports in, cited answers out</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/frankfurtlin/dsh-wallstreet/main/docs/screenshots/hero.png" width="420" alt="dsh-wallstreet"/><br/><sub><b>dsh-wallstreet</b> — the A-share panel</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/frankfurtlin/dsh-pet/main/docs/screenshots/hero.png" width="420" alt="dsh-pet"/><br/><sub><b>dsh-pet</b> — a capybara that watches the session</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/frankfurtlin/dsh-creative-studio/main/docs/screenshots/hero.png" width="420" alt="dsh-creative-studio"/><br/><sub><b>dsh-creative-studio</b> — writing, design and logo benches</sub></td>
+  </tr>
+</table>
+
+</div>
+
 | | Project | What it is |
 |---|---|---|
 | 📱 | **[dsh-pocket](https://github.com/frankfurtlin/dsh-pocket)** | Android client for DSH: native Flutter UI over an SSH tunnel, plus a phone bridge that lets the agent read the screen, tap, type and move files on a real device. |
