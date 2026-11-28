@@ -25,10 +25,11 @@ actually live on.
 | 🖥️ | **[AgentHub](https://github.com/frankfurtlin/AgentHub)** | A floating ball for people who run four AI coding tools at once. It shows which window is waiting for a click, and jumps you there. Windows, MIT. |
 | ⛏️ | **[mixinenhance](https://github.com/frankfurtlin/mixinenhance)** | A vanilla-friendly Minecraft 26.3 / Fabric mod: vein mining, fast leaf decay, auto-sorting containers. The one project here that is played rather than run. |
 
-### Ten plugins inside the harness
+### Eleven plugins inside the harness
 
 | Plugin | What it does |
 |---|---|
+| [dsh-gate](https://github.com/frankfurtlin/dsh-gate) | A single-user password gate in front of the harness — session cookies, SSE/WebSocket passthrough, settings inside DSH itself. |
 | [dsh-kb](https://github.com/frankfurtlin/dsh-kb) | Knowledge base: hybrid search, a co-occurrence graph, and a wiki the model writes itself. |
 | [dsh-webpilot](https://github.com/frankfurtlin/dsh-webpilot) | A real Chrome inside the host, driven by the agent; a login wall is handed to the human and picked up afterwards. |
 | [dsh-pet](https://github.com/frankfurtlin/dsh-pet) | A capybara on the desktop that reacts to session state — approvals first, thinking second. |
